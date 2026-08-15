@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:0B3040,100:00D9FF&text=Monu%20Gupta&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Building%20Intelligent%20Systems%20with%20AI%20%2F%20ML&descAlignY=55&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:0B2A3A,70:0B5C73,100:00D9FF&text=Monu%20Gupta&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descAlignY=52&descSize=17&animation=fadeIn"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer;NLP+%7C+Computer+Vision+%7C+LLMs;Idea+%E2%86%92+Data+%E2%86%92+Model+%E2%86%92+Product;Currently+Learning+%26+Shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Developer;NLP+%C2%B7+Computer+Vision+%C2%B7+LLMs;Idea+%E2%86%92+Data+%E2%86%92+Model+%E2%86%92+Product;Currently+Learning+%26+Shipping" />
 
 <br/>
 
@@ -13,96 +11,124 @@
 <a href="https://huggingface.co/monugupta1805"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 <a href="mailto:monugupta7033@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=monugupta7033&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/monugupta7033?style=flat-square&color=00D9FF&labelColor=0D1117"/>
+
 </div>
 
 <br/>
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm an **Information Technology undergraduate** focused on Artificial Intelligence, Machine Learning, and building practical, usable intelligent systems.
+```yaml
+role: AI / ML Developer & IT Undergraduate
+focus: [Machine Learning, Deep Learning, NLP, Computer Vision, LLMs]
+philosophy: "Understand deeply → Build practically → Ship continuously"
+currently_building: AI-powered systems that go from raw data to real products
+currently_learning: [Deep Learning architectures, LLM applications, AI Engineering]
+contact: monugupta7033@gmail.com
+```
 
-- 🔭 Currently building AI/ML projects across **NLP** and **Computer Vision**
-- 🌱 Deepening my skills in **Deep Learning** and **LLM applications**
-- ⚡ Philosophy: *understand the fundamentals → build real projects → keep improving*
-- 📫 Reach me at **monugupta7033@gmail.com**
+<br/>
+
+## 🧠 Tech Stack
+
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>AI / ML / Deep Learning</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>App / Deployment / Tools</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</details>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
+<h3>🩸 Fingerprint-Based Blood Group Prediction</h3>
+<p>An experimental CV + ML system exploring whether fingerprint ridge patterns correlate with blood-group classification — a non-invasive biometric approach.</p>
 
-### 🩸 Fingerprint-Based Blood Group Prediction
-An experimental computer vision + ML system exploring whether fingerprint patterns correlate with blood group classification.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-**Stack:** `Python` `OpenCV` `Scikit-learn` `Jupyter`
-
-`Image Input → Preprocessing → Feature Extraction → Classification → Prediction`
+```
+Image → Preprocessing → Feature Extraction → Classifier → Prediction
+```
 
 <a href="https://github.com/monugupta7033/Fingerprint-blood-group-prediction"><img src="https://img.shields.io/badge/View%20Repository-00D9FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
-
 </td>
+
 <td width="50%" valign="top">
+<h3>🤖 AI Resume Screening & Ranking System</h3>
+<p>An NLP-powered recruitment tool that parses resumes, extracts skills, matches them against a job description, and ranks candidates automatically.</p>
 
-### 🤖 AI Resume Screening & Ranking System
-An NLP-powered recruitment tool that parses resumes, extracts skills, and ranks candidates against a job description automatically.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-00D9FF?style=flat-square"/>
 
-**Stack:** `Python` `NLP` `Streamlit` `LLMs`
-
-`Resume + JD → Text Extraction → NLP → Skill Match → Score → Rank`
+```
+Resume + JD → Extraction → NLP → Skill Match → Score → Rank
+```
 
 <a href="https://github.com/monugupta7033/AI-Resume-Screening-Ranking-System"><img src="https://img.shields.io/badge/View%20Repository-00D9FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
-
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 🧠 Tech Stack
+## 🗺️ Learning Roadmap
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
-
-<br/><br/>
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-<br/><br/>
-
-**Tools & Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,react,git,github,vscode" />
-
-</div>
-
-<br/>
-
-## 🔬 What I'm Exploring
-
+```mermaid
+graph LR
+    A[Machine Learning] --> B[Deep Learning]
+    B --> C[Computer Vision]
+    B --> D[NLP]
+    D --> E[LLM Applications]
+    C --> E
+    E --> F[AI Engineering]
+    style A fill:#0D1117,stroke:#00D9FF,color:#fff
+    style B fill:#0D1117,stroke:#00D9FF,color:#fff
+    style C fill:#0D1117,stroke:#00D9FF,color:#fff
+    style D fill:#0D1117,stroke:#00D9FF,color:#fff
+    style E fill:#0D1117,stroke:#00D9FF,color:#fff
+    style F fill:#0D1117,stroke:#00D9FF,color:#fff
 ```
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Deep Learning
-        └── NLP → Computer Vision → LLM Applications → AI Engineering
-```
-
-| Area | Focus |
-|---|---|
-| 🧠 Machine Learning | Core algorithms & fundamentals |
-| 🤖 Deep Learning | Neural network architectures |
-| 👁️ Computer Vision | Image-based ML pipelines |
-| 💬 NLP | Text processing & language models |
-| 🧩 LLM Applications | Building with large language models |
-| ⚔️ DSA | Strengthening problem-solving fundamentals |
 
 <br/>
 
@@ -110,12 +136,16 @@ Artificial Intelligence
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=monugupta7033&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monugupta7033&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=00D9FF&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=monugupta7033&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monugupta7033&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=00D9FF&text_color=C9D1D9" height="175"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=monugupta7033&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=888888"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=monugupta7033&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
 
 <br/>
 
@@ -125,13 +155,29 @@ Artificial Intelligence
 
 <br/>
 
-## 🎯 How I Work
+## 🐍 Contribution Snake
 
-> `Build before overthinking` · `Understand the fundamentals` · `Turn theory into projects` · `Write code, break code, fix code` · `Keep learning`
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/monugupta7033/monugupta7033/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+> ⚠️ This animation needs a one-time setup — a GitHub Action that generates it automatically. See the `snake.yml` workflow file provided alongside this README.
 
 <br/>
 
-## 🌐 Connect With Me
+## 🎯 How I Work
+
+<div align="center">
+
+`Build before overthinking` · `Master the fundamentals` · `Turn theory into projects` · `Write code, break code, fix code` · `Never stop learning`
+
+</div>
+
+<br/>
+
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -139,12 +185,6 @@ Artificial Intelligence
 <a href="https://huggingface.co/monugupta1805"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 <a href="mailto:monugupta7033@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=monugupta7033&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:0B3040,100:0D1117"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00D9FF,35:0B5C73,70:0B2A3A,100:0D1117"/>
