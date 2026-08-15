@@ -148,8 +148,6 @@ graph LR
 
 <br/>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=monugupta7033&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=monugupta7033&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
