@@ -148,7 +148,7 @@ graph LR
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=monugupta7033&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=monugupta7033&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
 
 <br/>
 
