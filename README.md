@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:0B2A3A,70:0B5C73,100:00D9FF&text=Monu%20Gupta&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descAlignY=52&descSize=17&animation=fadeIn"/>
+# Monu Gupta
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Developer;NLP+%C2%B7+Computer+Vision+%C2%B7+LLMs;Idea+%E2%86%92+Data+%E2%86%92+Model+%E2%86%92+Product;Currently+Learning+%26+Shipping" />
 
@@ -162,8 +162,6 @@ graph LR
 <img src="https://raw.githubusercontent.com/monugupta7033/monugupta7033/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
-
-> ⚠️ This animation needs a one-time setup — a GitHub Action that generates it automatically. See the `snake.yml` workflow file provided alongside this README.
 
 <br/>
 
