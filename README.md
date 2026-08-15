@@ -139,8 +139,8 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=monugupta7033&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monugupta7033&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=00D9FF&text_color=C9D1D9" height="175"/>
+<img src="https://github-readme-stats-eight-xi-53.vercel.app/api?username=monugupta7033&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="175"/>
+<img src="https://github-readme-stats-eight-xi-53.vercel.app/api/top-langs/?username=monugupta7033&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=00D9FF&text_color=C9D1D9" height="175"/>
 
 <br/>
 
