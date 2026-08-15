@@ -1,8 +1,10 @@
 <div align="center">
 
-# Monu Gupta
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+%2B+Building+in+Public;AI+%2F+ML+%C2%B7+NLP+%C2%B7+Computer+Vision;Growing+one+project+at+a+time;Currently+Sharpening+My+Skills" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Developer;NLP+%C2%B7+Computer+Vision+%C2%B7+LLMs;Idea+%E2%86%92+Data+%E2%86%92+Model+%E2%86%92+Product;Currently+Learning+%26+Shipping" />
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20GROWING-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 
 <br/>
 
@@ -23,10 +25,11 @@
 ## 👨‍💻 About Me
 
 ```yaml
-role: AI / ML Developer & IT Undergraduate
+status: Learning & Enhancing my skills every day
+role: IT Undergraduate exploring AI / ML
 focus: [Machine Learning, Deep Learning, NLP, Computer Vision, LLMs]
-philosophy: "Understand deeply → Build practically → Ship continuously"
-currently_building: AI-powered systems that go from raw data to real products
+philosophy: "Learn deeply → Build practically → Improve continuously"
+currently_building: Small AI projects to apply what I learn
 currently_learning: [Deep Learning architectures, LLM applications, AI Engineering]
 contact: monugupta7033@gmail.com
 ```
